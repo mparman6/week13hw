@@ -1,0 +1,22 @@
+{
+  "name": "week13hw",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mparman6/week13hw.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mparman6/week13hw/issues"
+  },
+  "homepage": "https://github.com/mparman6/week13hw#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
