@@ -4,10 +4,14 @@
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
 
+ @import url(http://fonts.googleapis.com/css?family=Lato);
+@import url(http://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css);
+
 body,
 html {
     width: 100%;
     height: 100%;
+    color: white;
 }
 
 body,
@@ -32,7 +36,7 @@ h6 {
 
 .intro-header {
     padding-top: 50px; /* If you're making other pages, make sure there is 50px of padding to make sure the navbar doesn't overlap content! */
-    padding-bottom: 50px;
+    
     text-align: center;
     color: #f8f8f8;
     background: url(/img/city.jpg) no-repeat center center;
@@ -162,7 +166,7 @@ h6 {
 
 footer {
  
-    background-color: #f8f8f8;
+    /*background-color: #f8f8f8;*/
 }
 
 p.copyright {
